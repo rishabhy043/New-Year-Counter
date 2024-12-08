@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: 100vh;
+    background-color: burlywood;
+}
+.main{
+    border: 2px solid black;
+    text-align: center;
+}
+.away{
+    display: flex;
+}
+h3{
+background-color: rgb(103, 7, 211);
+color: white;
+font-size: 35px;
+padding: 5px;
+}
+.new-year{
+    background-color: white;
+    font-size: black;
+    font-size: 70px;
+    padding: 10px;
+    font-weight: 900;
+}
+.away{
+   background-color: rgb(103, 7, 211);
+color: white;
+    font-size: 20px;
+}
+.date{
+   margin: 5px 10px;
+
+}
